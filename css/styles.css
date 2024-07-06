@@ -174,7 +174,7 @@ img {
     padding-bottom: 120px;
 }
 
-.title-visibility {
+.visually-hidden {
     visibility: hidden;
 }
 
@@ -291,11 +291,12 @@ img {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize;
-    margin-bottom: 8px;
+    margin-bottom: 72px;
 }
 
 .cards {
     background: #fff;
+    width: calc((100% - 48px) / 3);
 }
 
 .cards-name {
@@ -330,6 +331,8 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-logo-studio {
