@@ -62,7 +62,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
-    margin-right: 76px;
+    
 }
 
 .logo-web {
@@ -73,13 +73,15 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-right: 76px;
+    
     
 }
 
 .contacts-list {
     display: flex;
     gap: 40px;
-    margin-left: 328px; 
+    margin-left: 328px;
 }
 
 .menu-link {
@@ -247,7 +249,7 @@ img {
 }
 
 .container-name-career {
-    margin-top: 32px;
+    padding: 32px 0;
 }
 
 .name {
@@ -326,7 +328,6 @@ img {
     background: #2e2f42;
     padding-top: 100px;
     padding-bottom: 100px;
-    padding-left: 156px;
 }
 
 .footer-logo-web {
@@ -338,6 +339,7 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     display: inline-block;
+    margin-bottom: 16px;
 }
 
 .footer-logo-studio {
@@ -348,7 +350,7 @@ img {
     text-transform: uppercase;
     color: #f4f4fd;
     display: inline-block;
-    margin-bottom: 16px;
+    
 }
 
 .footer-text {
