@@ -81,7 +81,7 @@ img {
 .contacts-list {
     display: flex;
     gap: 40px;
-    margin-left: 328px;
+    
 }
 
 .menu-link {
@@ -101,6 +101,7 @@ img {
 
 .address {
     font-style: normal;
+    margin-left: auto;
     
 }
 
@@ -268,7 +269,6 @@ img {
     line-height: 1.5;
     text-align: center;
     color: #434455;
-    margin-bottom: 32px;
     
 }
 
